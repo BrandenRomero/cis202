@@ -8,7 +8,7 @@ int main() {
   Mountain mountains[7];
   mountains[0] = Mountain("Chimborazo", "Ecudador", 20549);
   mountains[1] = Mountain("Matterhorn", "Switzeland", 14692);
-  mountains[2] = Mountain("Olympus", " Geece(Macedonia)", 9573);
+  mountains[2] = Mountain("Olympus", "Greece", 9573);
   mountains[3] = Mountain("Everest", "Nepal", 290929);
   mountains[4] = Mountain("Adirondacks", "United States", 5344);
   mountains[5] = Mountain("Blue Ridge", "United States", 6684);

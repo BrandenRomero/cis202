@@ -15,7 +15,7 @@ Mountain::Mountain(string name, string country, int elevation) {
 } 
 
 void Mountain::setName(string name) {
-  this->name = name; 
+  this->name = name;
 }
 
 void Mountain::setCountry(string country) {
